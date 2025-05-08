@@ -13,7 +13,7 @@ const Hero = () => {
         </div>
         <div className="line-enter">I'm Muhammad Muaz Tahir</div>
         <div className="text-animation">FullStack developer</div>
-        <a href="/cv.pdf"
+        <a href="/Resume.pdf"
           download="My_CV.pdf">
           <div className="btn-container">
             <button>Got a project ?</button>
